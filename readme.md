@@ -1,9 +1,4 @@
-title: leetcode记（持续更新中）
-date: 2016-02-29 17:45:58
-tags:
-- 算法
-- python
----
+# LeetCode记（持续更行中）
 
 This is a personal answers of leetcode problem. My aim is to find the fast way to solve the problems by python. In some cases, the time or space complexity may be sacrificed. All the problems sorted by AC rate.
 
